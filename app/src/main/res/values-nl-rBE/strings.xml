@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mijn Stal</string>
+    <string name="fatherPrefix">vader:\u0020</string>
+    <string name="motherPrefix">moeder:\u0020</string>
+    <string name="motherFatherPrefix">moeder\'s vader:\u0020</string>
+    <string name="noResultMessage">geen resultaten waren gevonden</string>
+    <string name="inputToShortMessage">input is te kort</string>
+    <string name="toManyResultMessage">te veel resultaten, wees specifieker</string>
+    <string name="noInternetMessage">er is geen connectie met het internet</string>
+    <string name="connectionErrorMessage">er was een error tijdens het connecteren met de server</string>
+    <string name="search">Zoeken</string>
+    <string name="stable">Stal</string>
+    <string name="exit">Exit</string>
+    <string name="add">toevoegen</string>
+    <string name="added">Toegevoegd</string>
+    <string name="remove">verwijderen</string>
+</resources>

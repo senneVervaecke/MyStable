@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Stable</string>
+
+    <string name="fatherPrefix">father: </string>
+    <string name="motherPrefix">mother: </string>
+    <string name="motherFatherPrefix">mother\'s father: </string>
+
+    <string name="noResultMessage">no results were found</string>
+    <string name="inputToShortMessage">input is to short</string>
+    <string name="toManyResultMessage">to many results, can you please specify</string>
+    <string name="noInternetMessage">there is no connection to the internet</string>
+    <string name="connectionErrorMessage">there was an error connecting to the server</string>
+    <string name="search">Search</string>
+    <string name="stable">Stable</string>
+    <string name="exit">Exit</string>
+    <string name="add">Add</string>
+    <string name="added">Added</string>
+    <string name="remove">Remove</string>
+</resources>
